@@ -2,6 +2,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=Automation+%26+robotics+student;Building+Blink+for+Hyprland;Living+in+Neovim" />
 </p>
+
 ---
 
 ### About
