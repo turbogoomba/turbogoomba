@@ -17,6 +17,11 @@
 
 ### Stats
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/turbogoomba/turbogoomba/output/snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/turbogoomba/turbogoomba/output/snake.svg" />
+</picture>
+
 <p>
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=turbogoomba&show_icons=true&hide_border=true&theme=transparent" />
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=turbogoomba&layout=compact&hide_border=true&theme=transparent" />
