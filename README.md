@@ -1,5 +1,7 @@
-<p align="center">Automation & robotics engineering student at OsloMet · Neovim enjoyer</p>
-
+<h1 align="center">Hi, I'm Herman</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=Automation+%26+robotics+student;Building+Blink+for+Hyprland;Living+in+Neovim" />
+</p>
 ---
 
 ### About
@@ -10,10 +12,6 @@
 - Into 3D modeling in Blender, and animation
 
 ### Tools & languages
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&size=18&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=Automation+%26+robotics+student;Building+Blink+for+Hyprland;Living+in+Neovim" />
-</p>
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,lua,nextjs,linux,arch,bash,neovim,git,latex,blender&theme=dark" />
