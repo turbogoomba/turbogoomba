@@ -29,3 +29,5 @@
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=turbogoomba&show_icons=true&hide_border=true&theme=transparent" />
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=turbogoomba&layout=compact&hide_border=true&theme=transparent" />
 </p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=A78BFA&height=120&section=footer" />
