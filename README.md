@@ -1,4 +1,3 @@
-<h1 align="center">Hi, I'm Turbogoomba</h1>
 <p align="center">Automation & robotics engineering student at OsloMet · Neovim enjoyer</p>
 
 ---
